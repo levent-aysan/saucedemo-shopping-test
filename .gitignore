@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Cypress
+cypress/screenshots/
+cypress/videos/
+
+# IDEs and editors
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+npm-debug.log*
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
